@@ -1,0 +1,31 @@
+{
+  "name": "lab-19-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint '**/*.js'",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nmq/q": "^1.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "eslint": "^5.7.0",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "mongodb-memory-server": "^2.9.1",
+    "mongoose": "^5.4.2",
+    "mongoose-schema-jsonschema": "^1.2.1",
+    "morgan": "^1.9.1",
+    "supertest": "^3.3.0",
+    "uuid": "^3.3.2"
+  }
+}

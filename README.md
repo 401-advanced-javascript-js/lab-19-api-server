@@ -8,8 +8,8 @@ to complete the server's functionality by creating
 the data models and writing a full test suite.
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-19-api-server/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-js/lab-19-api-server)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)

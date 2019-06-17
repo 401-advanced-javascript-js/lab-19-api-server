@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint '**/*.js'",
     "test": "jest --verbose --coverage",
-    "test-watch": "jest --watchAll --verbose"
+    "test-watch": "jest --watchAll --verbose",
+    "start": "node index.js"
   },
   "jest": {
     "testEnvironment": "node"
